@@ -1,7 +1,8 @@
 # SookTat_Taxi
 
 - 숙탯 제 1회 캐글 프로젝트를 위한 저장소입니다 ❤ 
-
+- https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
+- 
 # 참여 팀원
 - 1기 : 이지수 임유나
 - 2기 : 박지은 이민지 임주영
