@@ -10,4 +10,4 @@
   다들 팟팅 (o゜▽゜)o☆
 
 ### 진행 순서
--  EDA : https://JISU1012/SookTat_Taxi/EDA
+-  EDA : https://github.com/JISU1012/SookTat_Taxi/tree/main/EDA
