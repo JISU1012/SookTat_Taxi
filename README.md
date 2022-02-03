@@ -8,3 +8,6 @@
 - 2기 : 박지은 이민지 임주영
   
   다들 팟팅 (o゜▽゜)o☆
+
+### 진행 순서
+-  EDA : https://JISU1012/SookTat_Taxi/EDA
