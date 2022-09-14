@@ -1,6 +1,6 @@
 # SookTat_Taxi
 
-- 숙탯 제 1회 캐글 프로젝트를 위한 저장소입니다 ❤ 
+- 숙탯 제 1회 캐글 프로젝트를 위한 저장소입니다
 - 뉴욕 택시 가격 예측 모델링 : https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 
 ## 참여 팀원
